@@ -1,0 +1,1 @@
+<div class="flex h-screen items-center place-content-center text-amber-50 text-lg">Home</div>
